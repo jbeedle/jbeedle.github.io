@@ -1,9 +1,28 @@
 html {
-	background: #F0F8FF; /* For browsers that do not support gradients */
-  	background: -webkit-linear-gradient(left top, #F0F8FF, #7FFFD4); /* For Safari 5.1 to 6.0 */
-  	background: -o-linear-gradient(bottom right, #F0F8FF, #7FFFD4); /* For Opera 11.1 to 12.0 */
-  	background: -moz-linear-gradient(bottom right, #F0F8FF, #7FFFD4); /* For Firefox 3.6 to 15 */
-  	background: linear-gradient(to bottom right, #F0F8FF, #7FFFD4); /* Standard syntax */
+	background: linear-gradient(120deg, #1dd5a5, #5bebc6, #b1e9db);
+	background-size: 600% 600%;
+
+	-webkit-animation: AnimationName 36s ease infinite;
+	-moz-animation: AnimationName 36s ease infinite;
+	animation: AnimationName 36s ease infinite;
+
+	@-webkit-keyframes AnimationName {
+		0%{background-position:0% 50%}
+		50%{background-position:100% 50%}
+		100%{background-position:0% 50%}
+	}
+	
+	@-moz-keyframes AnimationName {
+    		0%{background-position:0% 50%}
+    		50%{background-position:100% 50%}
+    		100%{background-position:0% 50%}
+	}
+	
+	@keyframes AnimationName {
+    		0%{background-position:0% 50%}
+    		50%{background-position:100% 50%}
+    		100%{background-position:0% 50%}
+	}
 }
 
 body {
