@@ -1,6 +1,6 @@
 html {
-	background: linear-gradient(120deg, #1dd5a5, #5bebc6, #b1e9db);
-	background-size: 600% 600%;
+	background: linear-gradient(120deg, #1dd5a5, #f0f8f6);
+	background-size: 400% 400%;
 
 	-webkit-animation: AnimationName 36s ease infinite;
 	-moz-animation: AnimationName 36s ease infinite;
