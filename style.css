@@ -1,4 +1,8 @@
-body{
+html {
+	background: url(images/bgOp1.jpg);
+}
+
+body {
 	margin: 50 px auto;
 	width: 60% auto;
 }
