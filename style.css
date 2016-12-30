@@ -1,5 +1,6 @@
 html {
 	background: url(images/bgOp4.jpg);
+	background-repeat: repeat-x;
 }
 
 body {
