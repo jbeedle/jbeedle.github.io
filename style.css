@@ -37,6 +37,7 @@ nav ul {
 	list-style: none;
 	font-weight: bold;
 	text-align: center;
+	margin-bottom: 20px;
 }
 
 nav ul li {
@@ -53,7 +54,7 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    	font-size: 5em;
+    	font-size: 6em;
     	font-family:'Calibri';
     	text-align:center;
 	color: #999
