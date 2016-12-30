@@ -52,13 +52,13 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    	font-size: 3em;
+    	font-size: 5em;
     	font-family:'Calibri';
     	text-align:center;
 	color: #999
 }
 p {
-    font-size: 1.5em;
+    font-size: 3em;
     line-height: 1.4em;
     color: #999;
 	text-align: center;
