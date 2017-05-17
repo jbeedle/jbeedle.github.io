@@ -1,4 +1,4 @@
-html {
+/*html {
 	background: linear-gradient(120deg, #2a443e, #0a1411);
 	background-size: 400% 400%;
 
@@ -78,3 +78,22 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+*/
+
+.opener {
+  background-image: url(images/tree.jpg);
+  bakcground-position: center;
+  background-size: cover;
+  height: 800px;
+  width: 100%;
+}
+
+#openertext {
+  margin: 0 auto;
+  postion: relative;
+  font-family: Barrio, serif;
+  text-align: center;
+  top: 25%;
+  width: 60%;
+}
+  
