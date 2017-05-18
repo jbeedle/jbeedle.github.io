@@ -1,3 +1,8 @@
+body {
+  background-color: #FFF;
+  margin: 0;
+  padding: 0;
+
 .opener {
   background-image: url(images/tree.JPG);
   background-position: center center;
@@ -9,9 +14,16 @@
 #openertext {
   margin: 0 auto;
   postion: relative;
-  font-family: Barrio, serif;
   text-align: center;
   top: 25%;
   width: 60%;
 }
   
+h1 {
+  color: #FFF;
+  font-family: "Barrio", sans-serif;
+  font-size: 70px;
+  font-weight: 400;
+  line-height: 60px;
+  margin: 0;
+}
