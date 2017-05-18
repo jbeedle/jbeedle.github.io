@@ -5,7 +5,7 @@ body {
 }
 
 .opener{
-  background-image: url(images/flowers1.jpg);
+  background-image: url(images/tree.JPG);
   background-position: center center;
   background-size: cover;
   height: 700px;
@@ -16,16 +16,16 @@ body {
   margin: 0 auto;
   position: relative;
   text-align: center;
-  top: 25%;
+  top: 45%;
   width: 60%;
 }
 
 h1 {
   color: #FFF;
   font-family: 'Barrio', sans-serif;
-  font-size: 70px;
+  font-size: 100px;
   font-weight: 400;
-  line-height: 60px;
+  line-height: 100px;
   margin: 0;
 }
 
