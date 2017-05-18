@@ -8,13 +8,13 @@ body {
   background-image: url(images/tree.JPG);
   background-position: center center;
   background-size: cover;
-  height: 800px;
+  height: 700px;
   width: 100%;
 }
 
 #openertext {
   margin: 0 auto;
-  postion: absolute;
+  postion: relative;
   text-align: center;
   top: 25%;
   width: 60%;
