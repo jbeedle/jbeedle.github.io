@@ -5,7 +5,7 @@ body {
 }
 
 .opener {
-  background-image: url(images/tree.JPG);
+  background-image: url(images/flowers1.JPG);
   background-position: center center;
   background-size: cover;
   height: 700px;
@@ -14,7 +14,7 @@ body {
 
 #openertext {
   margin: 0 auto;
-  postion: relative;
+  position: relative;
   text-align: center;
   top: 25%;
   width: 60%;
