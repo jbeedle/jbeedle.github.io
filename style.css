@@ -4,8 +4,8 @@ body {
   padding: 0;
 }
 
-.opener {
-  background-image: url(images/flowers1.JPG);
+.opener{
+  background-image: url(images/flowers1.jpg);
   background-position: center center;
   background-size: cover;
   height: 700px;
@@ -19,12 +19,13 @@ body {
   top: 25%;
   width: 60%;
 }
-  
+
 h1 {
   color: #FFF;
-  font-family: Barrio, sans-serif;
+  font-family: 'Barrio', sans-serif;
   font-size: 70px;
   font-weight: 400;
   line-height: 60px;
   margin: 0;
 }
+
