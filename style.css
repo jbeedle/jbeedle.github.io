@@ -2,6 +2,7 @@ body {
   background-color: #FFF;
   margin: 0;
   padding: 0;
+}
 
 .opener {
   background-image: url(images/tree.JPG);
@@ -21,7 +22,7 @@ body {
   
 h1 {
   color: #FFF;
-  font-family: "Barrio", sans-serif;
+  font-family: Barrio, sans-serif;
   font-size: 70px;
   font-weight: 400;
   line-height: 60px;
