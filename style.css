@@ -13,7 +13,7 @@ body {
 
 #openertext {
   margin: 0 auto;
-  postion: relative;
+  postion: absolute;
   text-align: center;
   top: 25%;
   width: 60%;
